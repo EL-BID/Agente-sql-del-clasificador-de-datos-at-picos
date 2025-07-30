@@ -1,6 +1,6 @@
 # Agente SQL del Clasificador de datos atípicos
 
-*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](code.iadb.org)*
+*Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [https://knowledge.iadb.org/en/code-development](https://knowledge.iadb.org/en/code-development)*
 
 ## Descripción
 
