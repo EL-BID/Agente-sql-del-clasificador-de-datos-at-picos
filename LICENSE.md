@@ -11,7 +11,7 @@ Effective: April 2018
 
 El Software, con excepción de los Documentos de Soporte y Uso, deberá estar sujetos a los siguientes términos y condiciones, los cuales se empaquetarán como parte de cada Software bajo un archivo que llevará el nombre de "LICENCIA" :   
 
-"Copyright © [año]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado."
+"Copyright © [2018]. Banco Interamericano de Desarrollo ("BID"). Uso autorizado."
 
 
 ​1. Licencia 
